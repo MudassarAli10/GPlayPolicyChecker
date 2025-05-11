@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/footer";
 
+
 const ContactUs = () => {
   return (
     <div className="bg-gray-700 min-h-screen flex flex-col">
